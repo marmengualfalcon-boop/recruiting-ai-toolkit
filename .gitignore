@@ -1,0 +1,12 @@
+# Candidate data and generated output stay local
+cvs/
+out/
+*.pdf
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
