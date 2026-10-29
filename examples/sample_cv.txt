@@ -1,0 +1,22 @@
+Alex Rivera (fictional candidate)
+Backend Engineer | Remote
+
+Experience
+Shiply (fictional) - Backend Engineer, 2022 - present
+- Built and maintain the order-routing API in Python/FastAPI, ~2M requests/day
+- Migrated core services from EC2 to AWS ECS; cut deploy time from 40 to 8 minutes
+- Designed the PostgreSQL schema for carrier rates; added partitioning for large tables
+- Introduced SQS queues for async label generation
+
+Mercado Data (fictional) - Software Engineer, 2019 - 2022
+- Django REST APIs for an internal analytics product
+- Wrote ETL jobs in Python feeding a PostgreSQL warehouse
+
+Freelance - 2018 - 2019
+- Small web projects for local businesses
+
+Skills
+Python, FastAPI, Django, PostgreSQL, AWS (ECS, SQS, Lambda), Docker, Terraform, Redis
+
+Languages
+Spanish (native), English (advanced, daily written work with US team)

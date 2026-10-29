@@ -1,0 +1,11 @@
+Alex Rivera (fictional)
+Backend Engineer at Shiply | Python, FastAPI, AWS
+
+About
+I build APIs that move packages around. Lately most of my time goes into
+making our order-routing service faster and cheaper to run. Interested in
+event-driven systems and in teams small enough that engineers talk to customers.
+
+Recent activity
+- Posted a write-up on moving from EC2 to ECS and what we got wrong the first time
+- Open source: contributed a fix to a FastAPI rate-limiting library
