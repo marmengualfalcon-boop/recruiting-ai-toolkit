@@ -1,0 +1,24 @@
+Senior Backend Engineer (Remote, LATAM, US hours)
+Company: Northwind Labs (fictional) - Series A logistics software startup, 25 people
+
+What you'll do
+- Design and build the APIs behind our real-time shipment tracking platform
+- Own services end to end: design, code, deploy, monitor
+- Work with the CTO and two other backend engineers on architecture decisions
+
+What we're looking for
+- 5+ years building backend systems in production
+- Strong Python (Django or FastAPI) or Go
+- PostgreSQL and data modeling at scale
+- Experience with AWS (ECS, Lambda, SQS or similar)
+- Comfortable working async with a US-based team, overlapping 4+ hours with US Eastern
+- Fluent written and spoken English
+
+Nice to have
+- Event-driven architectures (Kafka, Kinesis)
+- Experience in logistics, supply chain or marketplaces
+- Startup experience (Seed to Series B)
+
+Setup
+- Independent contractor, paid in USD
+- Fully remote from anywhere in LATAM
